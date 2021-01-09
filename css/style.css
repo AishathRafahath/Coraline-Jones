@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+header{
+  text-align: center;
+  font-family: biscuits;
+  font-size: 40px;
+  <div style="background-image: url('img_girl.jpg');">
+
+}
+
+header img{
+  border: 20px solid;
+  border-style: ridge;
+  border-color: pink;
+}
