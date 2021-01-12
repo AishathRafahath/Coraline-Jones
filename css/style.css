@@ -1,16 +1,43 @@
 body{
-  margin: 0;
+  margin:0;
+  background-image: url(../img/back.jpeg);
+  padding-left: 20px;
+  font-family: Helvetica;
+
 }
 header{
   text-align: center;
   font-family: biscuits;
   font-size: 40px;
-  <div style="background-image: url('img_girl.jpg');">
+  background-image: url(../img/back.jpeg);
+  color: white;
 
 }
 
 header img{
-  border: 20px solid;
+  border: 30px solid;
   border-style: ridge;
-  border-color: pink;
+  border-color: lightyellow;
+
+
+}
+
+h4{
+  font-size: 30px;
+
+}
+
+h2{
+  font-family: biscuits;
+  color: white;
+  font-size: 40px;
+}
+
+p{
+  color: white;
+  font-size: 18px;
+}
+
+footer{
+  text-align: center;
 }
